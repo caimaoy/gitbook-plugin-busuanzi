@@ -10,10 +10,10 @@ Add it to your `book.json`:
 
 ```json
 {
-  "plugins": ["page-footer-ex"],
+  "plugins": ["busuanzi"],
   "pluginsConfig": {
     "page-footer-ex": {
-      "copyright": "By <em>author name</em>",
+      "copyright": "By <em>AUTHOR NAME</em>",
       "markdown": false
     }
   }
@@ -24,7 +24,7 @@ or
 
 ```json
 {
-  "plugins": ["page-footer-ex"],
+  "plugins": ["busuanzi"],
   "pluginsConfig": {
     "page-footer-ex": {
       "copyright": "[mrcode](https://github.com/caimaoy)",

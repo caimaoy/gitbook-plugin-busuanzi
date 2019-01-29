@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-busuanzi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The statistics of busuanzi",
   "engines": {
     "gitbook": ">=2.5.1"
