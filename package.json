@@ -1,0 +1,40 @@
+{
+  "name": "gitbook-plugin-busuanzi",
+  "version": "0.0.1",
+  "description": "The statistics of busuanzi",
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "homepage": "https://github.com/caimaoy/gitbook-plugin-busuanzi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caimaoy/gitbook-plugin-busuanzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caimaoy/gitbook-plugin-busuanzi/issues"
+  },
+  "gitbook": {
+    "properties": {
+      "copyright": {
+        "type": "string",
+        "default": "© All Rights Reserved",
+        "title": "你的版权信息",
+        "description": "The left-aligned text in the footer."
+      },
+      "markdown": {
+        "type": "boolean",
+        "default": false,
+        "title": "是否支持Markdown格式信息",
+        "description": "True if copyright and update_label are in Markdown, false if plain text or HTML."
+      }
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "busuanzi",
+    "gitbook",
+    "plugin"
+  ],
+  "author": "caimaoy",
+  "license": "MIT"
+}
