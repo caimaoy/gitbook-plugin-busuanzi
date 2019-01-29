@@ -41,7 +41,7 @@ or
   "copyright": {
     "type": "string",
     "default": "© All Rights Reserved",
-    "title": "你的版权信息",
+    "title": "Your copyright message",
     "description": "Copyright text"
   },
   "markdown": {
