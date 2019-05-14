@@ -4,8 +4,7 @@ module.exports = {
   book: {
     assets: './book',
     css: ['style/plugin.css'],
-    // css: ['website.css'],
-    js: ['plugin.js'], // 'bsz.js'],
+    js: ['plugin.js'],
   },
   hooks: {
     'page:before': function(page) {
